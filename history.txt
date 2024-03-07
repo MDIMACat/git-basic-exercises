@@ -1,0 +1,1000 @@
+ 1118  git push
+ 1119  clear
+ 1120  git branch
+ 1121  git switch roman 
+ 1122  git merge master
+ 1123  git push
+ 1124  clear
+ 1125  /bin/python3 /home/snenhlanhla/.vscode/extensions/ms-python.python-2024.0.1/pythonFiles/printEnvVariablesToFile.py /home/snenhlanhla/.vscode/extensions/ms-python.python-2024.0.1/pythonFiles/deactivate/bash/envVars.txt
+ 1126  clear
+ 1127  ls
+ 1128  cd models/
+ 1129  clear
+ 1130  ls
+ 1131  cd engine/
+ 1132  cd ..
+ 1133  clear
+ 1134  ls
+ 1135  git branch
+ 1136  git add api/
+ 1137  git commit -m "Added silent = True to get_josn()"
+ 1138  git push
+ 1139  git switch master 
+ 1140  git merge roman
+ 1141  git push
+ 1142  clear
+ 1143  cd models/engine/
+ 1144  ls
+ 1145  pycodestyle *.py
+ 1146  cd ..
+ 1147  cd tests/
+ 1148  ls
+ 1149  cd test_models/
+ 1150  clear
+ 1151  ls
+ 1152  cd test_engine/
+ 1153  clear
+ 1154  ls
+ 1155  pycodestyle *.py
+ 1156  sudo apt update
+ 1157  sudo apt upgrade
+ 1158  clear
+ 1159  sudo apt update
+ 1160  clear
+ 1161  ls
+ 1162  clear
+ 1163  cd ..
+ 1164  cd ../../
+ 1165  clear
+ 1166  ls
+ 1167  deactviate
+ 1168  deactivate
+ 1169  clear
+ 1170  ls
+ 1171  mkdir umuzi_bootcamp
+ 1172  clear
+ 1173  ls
+ 1174  cd umuzi_bootcamp/
+ 1175  clear
+ 1176  ls
+ 1177  clear
+ 1178  node --v
+ 1179  vlear
+ 1180  clear
+ 1181  bode -v
+ 1182  clear
+ 1183  node -v
+ 1184  npm install -g npm
+ 1185  clear
+ 1186  node win.js 
+ 1187  clear
+ 1188  ls
+ 1189  cd ..
+ 1190  clear
+ 1191  ls
+ 1192  cd alx_work/
+ 1193  clear
+ 1194  ls
+ 1195  cd ..
+ 1196  clear
+ 1197  ls
+ 1198  Back-end/
+ 1199  cd Back-end/
+ 1200  clear
+ 1201  ls
+ 1202  cd ..
+ 1203  clear
+ 1204  ls
+ 1205  cd alx_work/
+ 1206  clear
+ 1207  ls
+ 1208  clear
+ 1209  git clone https://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@github.com/MDIMACat/alx-higher_level_programming.git
+ 1210  clear
+ 1211  ls
+ 1212  cd alx-higher_level_programming/
+ 1213  clear
+ 1214  ls
+ 1215  mkdir 0x15-javascript-web_jquery
+ 1216  clear
+ 1217  ls
+ 1218  cd 0x15-javascript-web_jquery/
+ 1219  clear
+ 1220  ls
+ 1221  semistandard --fix
+ 1222  clear
+ 1223  semistandard --fix *.js
+ 1224  clear
+ 1225  semistandard 0-script.js 
+ 1226  npm install -g semistandard
+ 1227  clear
+ 1228  semistandard *.js --global $
+ 1229  semistandard *.js --global --fix $
+ 1230  semistandard *.js --fix
+ 1231  clear
+ 1232  git add .
+ 1233  git commit -m "Jquery project javascript"
+ 1234  git push
+ 1235  clear
+ 1236  ls
+ 1237  git add 9-script.js 
+ 1238  git commit -m "Added task 9-script.js"
+ 1239  git push
+ 1240  clear
+ 1241  ls
+ 1242  git add *.html
+ 1243  git commit -m "Html files"
+ 1244  git push
+ 1245  clear
+ 1246  cd ../../../
+ 1247  clear
+ 1248  ls
+ 1249  cd alx_work/
+ 1250  clear
+ 1251  ls
+ 1252  rm -rf alx-higher_level_programming/
+ 1253  clear
+ 1254  ls
+ 1255  clear
+ 1256  ls
+ 1257  git clone https://github.com/nelisa-dludla/alx-higher_level_programming.git
+ 1258  clear
+ 1259  cd alx-higher_level_programming/
+ 1260  clear
+ 1261  ls
+ 1262  cd 0x15-javascript-web_jquery/
+ 1263  clear
+ 1264  ls
+ 1265  clear
+ 1266  ls
+ 1267  cd Flask_stream/
+ 1268  clear
+ 1269  ls
+ 1270  source venv/bin/activate
+ 1271  clear
+ 1272  pip list
+ 1273  clear
+ 1274  git clone https://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@github.com/franklinobiukwu/AirBnB_clone_v4.git
+ 1275  clear
+ 1276  ls
+ 1277  cd Flask_stream/
+ 1278  clear
+ 1279  ls
+ 1280  source venv/bin/activate
+ 1281  clear
+ 1282  sudo apt-get install -y python3-lxml
+ 1283  clear
+ 1284  sudo pip3 install flask_cors
+ 1285  pip3 install flask_cors
+ 1286  clear
+ 1287  pip3 install flasgger
+ 1288  clear
+ 1289  pip install --upgrade setuptools pip
+ 1290  pip install flasgger
+ 1291  clear
+ 1292  pip uninstall -y jsonschema
+ 1293  pip install jsonschema==3.0.1
+ 1294  clear
+ 1295  pip install pathlib2
+ 1296  clear
+ 1297  ls
+ 1298  cd AirBnB_clone_v4/
+ 1299  clear
+ 1300  ls
+ 1301  mkdir web_dynamic
+ 1302  ls
+ 1303  cd web_dynamic/
+ 1304  clear
+ 1305  ls
+ 1306  cd ..
+ 1307  clear
+ 1308  ls
+ 1309  cd web_flask/
+ 1310  clear
+ 1311  ls
+ 1312  cp static/ ./AirBnB_clone_v4/web_dynamic
+ 1313  mv static/ ./AirBnB_clone_v4/web_dynamic
+ 1314  clear
+ 1315  ls
+ 1316  clear
+ 1317  ls
+ 1318  cd ..
+ 1319  clear
+ 1320  ls
+ 1321  cd web_dynamic/
+ 1322  clear
+ 1323  ls
+ 1324  python3 0-hbnb.py 
+ 1325  clear
+ 1326  ls
+ 1327  mkdir templates/
+ 1328  ls
+ 1329  mv 0-hbnb.html templates/
+ 1330  clear
+ 1331  ls
+ 1332  cd templates/
+ 1333  clear
+ 1334  ls
+ 1335  clear
+ 1336  ls
+ 1337  git branch
+ 1338  cd ..
+ 1339  clear
+ 1340  ls
+ 1341  cd ..
+ 1342  clear
+ 1343  ls
+ 1344  git add .
+ 1345  git commit -m "Tasks 0 and 1"
+ 1346  git push
+ 1347  clear
+ 1348  HBNB_MYSQL_USER=hbnb_dev HBNB_MYSQL_PWD=hbnb_dev_pwd HBNB_MYSQL_HOST=localhost HBNB_MYSQL_DB=hbnb_dev_db HBNB_TYPE_STORAGE=db python3 -m web_dynamic.0-hbnb
+ 1349  clear
+ 1350  curl -s -XGET http://0.0.0.0:5000/0-hbnb/ | head -6
+ 1351  ls
+ 1352  cd web_dynamic/
+ 1353  clear
+ 1354  ls
+ 1355  mv 0-hbnb.py 1-hbnb,py
+ 1356  ls
+ 1357  mv 1-hbnb,py 0-hbnb.py
+ 1358  ls
+ 1359  clear
+ 1360  ls
+ 1361  chmod +x 1-hbnb.py 
+ 1362  clear
+ 1363  ls
+ 1364  python3 0-hbnb.py 
+ 1365  clear
+ 1366  ls
+ 1367  cd templates/
+ 1368  clear
+ 1369  ls
+ 1370  clear
+ 1371  ls
+ 1372  cd ..
+ 1373  clear
+ 1374  ls
+ 1375  cd static/
+ 1376  clear
+ 1377  ls
+ 1378  cd scripts/
+ 1379  clear
+ 1380  ls
+ 1381  touch 1-hbnb.js
+ 1382  ls
+ 1383  clear
+ 1384  cd ..
+ 1385  clear
+ 1386  ls
+ 1387  git add .
+ 1388  git commit -m "task 3"
+ 1389  git push
+ 1390  clear
+ 1391  cd ..
+ 1392  clear
+ 1393  ls
+ 1394  cd umuzi_bootcamp/
+ 1395  clear
+ 1396  ls
+ 1397  clear
+ 1398  node task1.js 
+ 1399  clear
+ 1400  node task2.js 
+ 1401  clear
+ 1402  node task3.js 
+ 1403  clear
+ 1404  node task4.js 
+ 1405  clear
+ 1406  node task4.js 
+ 1407  clear
+ 1408  ls
+ 1409  mkdir writing_assignment
+ 1410  ls
+ 1411  clear
+ 1412  ls
+ 1413  cd Coding_aptitude_assessment_challenge_1/
+ 1414  clear
+ 1415  ls
+ 1416  clear
+ 1417  node task5.js 
+ 1418  clear
+ 1419  node task5.js 
+ 1420  clear
+ 1421  node task5.js 
+ 1422  node task6.js 
+ 1423  clear
+ 1424  node task7.js 
+ 1425  clear
+ 1426  node task8.js 
+ 1427  clear
+ 1428  node task8.js 
+ 1429  clear
+ 1430  node task8.js 
+ 1431  clear
+ 1432  node task8.js 
+ 1433  clear
+ 1434  node task8.js 
+ 1435  clear
+ 1436  node task8.js 
+ 1437  clear
+ 1438  node task8.js 
+ 1439  clear
+ 1440  node task8.js 
+ 1441  node task8.js 
+ 1442  clear
+ 1443  node task9.js 
+ 1444  clear
+ 1445  node task9.js 
+ 1446  clear
+ 1447  node task10.js 
+ 1448  clear
+ 1449  node task10.js 
+ 1450  clear
+ 1451  node task10.js 
+ 1452  clear
+ 1453  node task10.js 
+ 1454  clear
+ 1455  node task10.js 
+ 1456  clear
+ 1457  node task10.js 
+ 1458  clear
+ 1459  node task10.js 
+ 1460  clear
+ 1461  node task10.js 
+ 1462  clear
+ 1463  node task10.js 
+ 1464  clear
+ 1465  node task10.js 
+ 1466  clear
+ 1467  node task10.js 
+ 1468  clear
+ 1469  node task10.js 
+ 1470  clear
+ 1471  node task10.js 
+ 1472  clear
+ 1473  node task10.js 
+ 1474  clear
+ 1475  node task10.js 
+ 1476  clear
+ 1477  node task10.js 
+ 1478  clear
+ 1479  node task10.js 
+ 1480  clear
+ 1481  node task10.js 
+ 1482  clear
+ 1483  node task10.js 
+ 1484  ls /
+ 1485  ls
+ 1486  pwd
+ 1487  cd home
+ 1488  ls
+ 1489  clear
+ 1490  ls
+ 1491  clear
+ 1492  cd ..
+ 1493  clear
+ 1494  ls
+ 1495  mkdir beginning_bash
+ 1496  clear
+ 1497  ls
+ 1498  cd beginning_bash/
+ 1499  clear
+ 1500  ls
+ 1501  clear
+ 1502  git clone https://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@github.com/Umuzi-org/Siduduzile-Mdima-394-bash-for-bootcamp-.git
+ 1503  clear
+ 1504  ls
+ 1505  cd Siduduzile-Mdima-394-bash-for-bootcamp-/
+ 1506  clear
+ 1507  ls
+ 1508  touch question_1.md question_2.md
+ 1509  ls 
+ 1510  touch question_3.md question_4.md
+ 1511  touch question_5.md question_6.md
+ 1512  touch question_7.md question_8.md
+ 1513  touch question_9.md question_10.md
+ 1514  touch question_11.md question_12.md
+ 1515  touch question_13.md
+ 1516  clear
+ 1517  man rm
+ 1518  clear
+ 1519  ls
+ 1520  git add .
+ 1521  git commit -m "Answered Questions 1 through to 11 on basic bash commands for umuzi bootcamp studies"
+ 1522  git push
+ 1523  clear
+ 1524  ls
+ 1525  clear
+ 1526  git
+ 1527  clear
+ 1528  git config
+ 1529  clear
+ 1530  git --list
+ 1531  git -l
+ 1532  clear
+ 1533  git --heelp
+ 1534  git --help
+ 1535  clear
+ 1536  ls
+ 1537  cd day-01/
+ 1538  clear
+ 1539  ls
+ 1540  node 1.two_sum.js 
+ 1541  clear
+ 1542  node 1.two_sum.js 
+ 1543  clear
+ 1544  node 1.two_sum.js 
+ 1545  clear
+ 1546  node 1.two_sum.js 
+ 1547  clear
+ 1548  node 1.two_sum.js 
+ 1549  clear
+ 1550  node 1.two_sum.js 
+ 1551  clear
+ 1552  node 1.two_sum.js 
+ 1553  clear
+ 1554  node 1.two_sum.js 
+ 1555  clear
+ 1556  node 1.two_sum.js 
+ 1557  clear
+ 1558  node 1.two_sum.js 
+ 1559  clear
+ 1560  node 1.two_sum.js 
+ 1561  clear
+ 1562  node 1.two_sum.js 
+ 1563  ls
+ 1564  cd alx-system_engineering-devops/
+ 1565  cd 0x16-api_advanced/
+ 1566  clear
+ 1567  ls
+ 1568  git add 0-subs.py 
+ 1569  git commit -m "change implementation"
+ 1570  git push
+ 1571  git add 0-subs.py 
+ 1572  git commit -m "change implementation add request"
+ 1573  git push
+ 1574  clear
+ 1575  ls
+ 1576  pycodestyle 0-subs.py 
+ 1577  git add 0-
+ 1578  clear
+ 1579  git add 0-subs.py 
+ 1580  git commit -m "reverted code"
+ 1581  git push
+ 1582  clear
+ 1583  ls l
+ 1584  ls
+ 1585  touch 1-main.py
+ 1586  chmod +x *.py
+ 1587  clear
+ 1588  ls
+ 1589  python3 1-main.py programming
+ 1590  clear
+ 1591  ls
+ 1592  pycodestyle 1-top_ten.py 
+ 1593  git add 1-top_ten.py 
+ 1594  git commit -m "Query for top 10"
+ 1595  git push
+ 1596  clear
+ 1597  python3 1-main.py this_is_a_fake_subreddit
+ 1598  pycodestyle  2-recurse.py 
+ 1599  clear
+ 1600  pycodestyle  2-recurse.py 
+ 1601  chmod +x 2-recurse.py 
+ 1602  git add 2-recurse.py 
+ 1603  git commti -m "Task 2"
+ 1604  git commit -m "Task 2"
+ 1605  git push
+ 1606  clear
+ 1607  ls
+ 1608  chmod +x 100-count.py 
+ 1609  clear
+ 1610  ls
+ 1611  git add 100-count.py 
+ 1612  git commit -m "Counting word - advanced"
+ 1613  git push
+ 1614  clear
+ 1615  cd ..
+ 1616  clear
+ 1617  mkdir 0x17-web_stack_debugging_3
+ 1618  cd 0x17-web_stack_debugging_3/
+ 1619  clear
+ 1620  ls
+ 1621  touch README.md
+ 1622  touch 0-strace_is_your_friend.pp
+ 1623  clear
+ 1624  git add .
+ 1625  git commit -m "fixed typo"
+ 1626  git push
+ 1627  clear
+ 1628  ls
+ 1629  git clone https://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@github.com/Umuzi-org/Siduduzile-Mdima-219-level-1-programming-katas-javascript.git
+ 1630  clear
+ 1631  ls
+ 1632  cd Siduduzile-Mdima-219-level-1-programming-katas-javascript/
+ 1633  clear
+ 1634  ls
+ 1635  git branch
+ 1636  git branch level-1-coding-challanges-MDIMACat
+ 1637  ls
+ 1638  git branch
+ 1639  git switch level-1-coding-challanges-MDIMACat 
+ 1640  clear
+ 1641  ls
+ 1642  git branch
+ 1643  ls
+ 1644  clear
+ 1645  git switch main
+ 1646  clear
+ 1647  git branch
+ 1648  git branch -D level-1-coding-challanges-MDIMACat 
+ 1649  clear
+ 1650  ls
+ 1651  git branch
+ 1652  git checkout main
+ 1653  git pull
+ 1654  git checkout -b task/1
+ 1655  clear
+ 1656  ls
+ 1657  git branch
+ 1658  touch task1.js
+ 1659  clear
+ 1660  ls
+ 1661  cd ..
+ 1662  clear
+ 1663  ls
+ 1664  cd beginning_bash/
+ 1665  clear
+ 1666  ls
+ 1667  cd Siduduzile-Mdima-394-bash-for-bootcamp-/
+ 1668  clear
+ 1669  ls
+ 1670  git status
+ 1671  git add question_12.md 
+ 1672  git commit -m "Updated question 12 with the command to remove a directorty is it had content"
+ 1673  git push
+ 1674  clear
+ 1675  cd ..
+ 1676  clear
+ 1677  cd ..
+ 1678  clear
+ 1679  ls
+ 1680  mkdir UNDERSTANDING_THE_REVIEW_COLUMN
+ 1681  clear
+ 1682  ls
+ 1683  cd UNDERSTANDING_THE_REVIEW_COLUMN/
+ 1684  clear
+ 1685  ls
+ 1686  touch question_1.md
+ 1687  touch question_2.md
+ 1688  touch question_3.md
+ 1689  touch question_4.md
+ 1690  cd ..
+ 1691  cd ,,
+ 1692  cd ..
+ 1693  clear
+ 1694  ls
+ 1695  cd servers/
+ 1696  clear
+ 1697  ls
+ 1698  ./server_wb_01.sh 
+ 1699  clear
+ 1700  ls
+ 1701  ./server_wb_01.sh 
+ 1702  cd ..
+ 1703  clear
+ 1704  ls
+ 1705  cd servers/
+ 1706  clear
+ 1707  ls
+ 1708  ./server_wb_01.sh 
+ 1709  ls
+ 1710  cd ..
+ 1711  clear
+ 1712  ls
+ 1713  mkdir 0x18-webstack_monitoring
+ 1714  cd 0x18-webstack_monitoring/
+ 1715  clear
+ 1716  ls
+ 1717  touch 2-setup_datadog
+ 1718  la
+ 1719  clear
+ 1720  ls
+ 1721  clear
+ 1722  cd ..
+ 1723  clear
+ 1724  ls
+ 1725  cd servers/
+ 1726  clear
+ 1727  ls
+ 1728  touch API_AND_APPLICATION_KEY.txt
+ 1729  ls
+ 1730  cd ..
+ 1731  cd alx-system_engineering-devops/
+ 1732  clear
+ 1733  ls
+ 1734  cd 0x18-webstack_monitoring/
+ 1735  clear
+ 1736  ls
+ 1737  touch README.md
+ 1738  clear
+ 1739  git add .
+ 1740  git commit -m "Created repo and readme for webstack monitoring file"
+ 1741  git push
+ 1742  clear
+ 1743  ls
+ 1744  git add .
+ 1745  git commit -m "Dashboard of datadog"
+ 1746  git push
+ 1747  clear
+ 1748  cd ..
+ 1749  cd UNDERSTANDING_THE_REVIEW_COLUMN/
+ 1750  clear
+ 1751  ls
+ 1752  touch question_5.md
+ 1753  touch question_6.md
+ 1754  touch question_7.md
+ 1755  sudo apt update
+ 1756  touch question_8.md
+ 1757  ls
+ 1758  cd UNDERSTANDING_THE_REVIEW_COLUMN/
+ 1759  clear
+ 1760  ls
+ 1761  sudo apt update
+ 1762  clear
+ 1763  ls
+ 1764  cd ..
+ 1765  clear
+ 1766  ls
+ 1767  cd beginning_bash/
+ 1768  clear
+ 1769  ls
+ 1770  cd Siduduzile-Mdima-394-bash-for-bootcamp-/
+ 1771  ls
+ 1772  git add question_12.md
+ 1773  git commit -m "Removed the forceful removal of a file"
+ 1774  git push
+ 1775  clear
+ 1776  git push
+ 1777  clear
+ 1778  ls
+ 1779  cd ..
+ 1780  clear
+ 1781  ls
+ 1782  cd .
+ 1783  cd ..
+ 1784  clear
+ 1785  ls
+ 1786  cd UNDERSTANDING_THE_REVIEW_COLUMN/
+ 1787  clear
+ 1788  ls
+ 1789  git branch
+ 1790  clear
+ 1791  ls
+ 1792  cd ..
+ 1793  clear
+ 1794  ls
+ 1795  mkdir Continue_Repo_projects_work
+ 1796  clear
+ 1797  ls
+ 1798  clear
+ 1799  cd Continue_Repo_projects_work/
+ 1800  clear
+ 1801  ls
+ 1802  git clone https://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@github.com/Umuzi-org/Siduduzile-Mdima-606-tilde-project-tutorial-how-repo-projects-work-.git
+ 1803  clear
+ 1804  ls
+ 1805  cd Siduduzile-Mdima-606-tilde-project-tutorial-how-repo-projects-work-/
+ 1806  clear
+ 1807  git branch
+ 1808  git branch MDIMACat-patch-2
+ 1809  git switch MDIMACat-patch-2
+ 1810  clear
+ 1811  ls
+ 1812  git branch
+ 1813  clear
+ 1814  ls
+ 1815  git add important.md 
+ 1816  git commit -m "Added additional text to important.md file, on the MDIMACat-patch-2 branch"
+ 1817  git branch
+ 1818  git push
+ 1819  git push --set-upstream origin MDIMACat-patch-2
+ 1820  clear
+ 1821  cd ..
+ 1822  clear
+ 1823  ls
+ 1824  cd ..
+ 1825  clear
+ 1826  ls
+ 1827  mkdir Level_1_coding_challenges
+ 1828  clear
+ 1829  ls
+ 1830  mv Siduduzile-Mdima-219-level-1-programming-katas-javascript/ Level_1_coding_challenges/
+ 1831  clear
+ 1832  ls
+ 1833  cd Level_1_coding_challenges/
+ 1834  clear
+ 1835  ls
+ 1836  cd Siduduzile-Mdima-219-level-1-programming-katas-javascript/
+ 1837  clear
+ 1838  ls
+ 1839  git branch
+ 1840  git pull
+ 1841  clear
+ 1842  ls
+ 1843  git branch
+ 1844  git switch main
+ 1845  git pull
+ 1846  git branch
+ 1847  git switch task/1 
+ 1848  git pull
+ 1849  clear
+ 1850  ls
+ 1851  clear
+ 1852  node task1.js 
+ 1853  clear
+ 1854  node task1.js 
+ 1855  clear
+ 1856  node task1.js 
+ 1857  clear
+ 1858  node task1.js 
+ 1859  clear
+ 1860  node task1.js 
+ 1861  clear
+ 1862  node task1.js 
+ 1863  clear
+ 1864  node task1.js 
+ 1865  clear
+ 1866  node task1.js 
+ 1867  clear
+ 1868  node task1.js 
+ 1869  clear
+ 1870  node task1.js 
+ 1871  clear
+ 1872  node task1.js 
+ 1873  clear
+ 1874  node task1.js 
+ 1875  clear
+ 1876  node task1.js 
+ 1877  clear
+ 1878  node task1.js 
+ 1879  clear
+ 1880  node task1.js 
+ 1881  clear
+ 1882  node task1.js 
+ 1883  clear
+ 1884  node task1.js 
+ 1885  clear
+ 1886  node task1.js 
+ 1887  clear
+ 1888  node task1.js 
+ 1889  clear
+ 1890  node task1.js 
+ 1891  clear
+ 1892  node task1.js 
+ 1893  clear
+ 1894  node task1.js 
+ 1895  clear
+ 1896  node task1.js 
+ 1897  clear
+ 1898  node task1.js 
+ 1899  clear
+ 1900  node task1.js 
+ 1901  clear
+ 1902  node task1.js 
+ 1903  clear
+ 1904  node task1.js 
+ 1905  clear
+ 1906  node task1.js 
+ 1907  clear
+ 1908  ls
+ 1909  node task1.js 
+ 1910  clear
+ 1911  git branch
+ 1912  git add .
+ 1913  git commit -m "Implemented a multiples function that takes in a given int and prints out the sum total of the multiples of 3 and 5 based on the integer"
+ 1914  git push
+ 1915  clear
+ 1916  ls
+ 1917  git branch
+ 1918  git branch task/2
+ 1919  git branch
+ 1920  git switch task/2 
+ 1921  clear
+ 1922  ls
+ 1923  git branch
+ 1924  clear
+ 1925  ls
+ 1926  git branch
+ 1927  clear
+ 1928  node task2.js 
+ 1929  clear
+ 1930  node task2.js 
+ 1931  clear
+ 1932  node task2.js 
+ 1933  clear
+ 1934  node task2.js 
+ 1935  clear
+ 1936  node task2.js 
+ 1937  clear
+ 1938  node task2.js 
+ 1939  clear
+ 1940  node task2.js 
+ 1941  clear
+ 1942  node task2.js 
+ 1943  clear
+ 1944  node task2.js 
+ 1945  clear
+ 1946  node task2.js 
+ 1947  clear
+ 1948  node task2.js 
+ 1949  clear
+ 1950  node task2.js 
+ 1951  clear
+ 1952  node task2.js 
+ 1953  clear
+ 1954  node task2.js 
+ 1955  clear
+ 1956  node task2.js 
+ 1957  clear
+ 1958  node task2.js 
+ 1959  clear
+ 1960  node task2.js 
+ 1961  clear
+ 1962  node task2.js 
+ 1963  clear
+ 1964  node task2.js 
+ 1965  clear
+ 1966  node task2.js 
+ 1967  clear
+ 1968  node task2.js 
+ 1969  clear
+ 1970  node task2.js 
+ 1971  clear
+ 1972  ls
+ 1973  git branch
+ 1974  git add .
+ 1975  git commit -m "Implemented task 3 of Level 1 coding challenge, hasThree function"
+ 1976  git push
+ 1977  git push --set-upstream origin task/2
+ 1978  clear
+ 1979  ls
+ 1980  git branch 
+ 1981  git checkout task/2 
+ 1982  git switch task/1 
+ 1983  clear
+ 1984  ls
+ 1985  node task1.js 
+ 1986  clear
+ 1987  node task1.js 
+ 1988  git add task1.js 
+ 1989  git commit -m "Implemented review suggestions to improve my code"
+ 1990  git push
+ 1991  clear
+ 1992  git branch
+ 1993  git switch task/2 
+ 1994  clear
+ 1995  ls
+ 1996  node task2.js 
+ 1997  clear
+ 1998  node task2.js 
+ 1999  clear
+ 2000  git branch
+ 2001  clear
+ 2002  node task2.js 
+ 2003  clear
+ 2004  node task2.js 
+ 2005  clear
+ 2006  node task2.js 
+ 2007  clear
+ 2008  node task2.js 
+ 2009  clear
+ 2010  ls
+ 2011  git branch
+ 2012  git add task2.js 
+ 2013  git commit -m "Updated task 2 , improved function"
+ 2014  git push
+ 2015  clear
+ 2016  ls
+ 2017  cd ..
+ 2018  clear
+ 2019  ls
+ 2020  cd ..
+ 2021  clear
+ 2022  ls
+ 2023  mkdir GIT_BASICS_EXERCISES
+ 2024  clear
+ 2025  ls
+ 2026  cd GIT_BASICS_EXERCISES/
+ 2027  clear
+ 2028  mkdir git-basic-exercises
+ 2029  cd git-basic-exercises/
+ 2030  clear
+ 2031  ls -a
+ 2032  clear
+ 2033  git init
+ 2034  git config --global init.defaultBranch main
+ 2035  git branch
+ 2036  ls
+ 2037  clear
+ 2038  ls
+ 2039  la -a
+ 2040  git status
+ 2041  touch README.md
+ 2042  ls -a
+ 2043  git status
+ 2044  git log
+ 2045  git add 
+ 2046  git add .
+ 2047  git status
+ 2048  git commit -m "initial commit"
+ 2049  git log
+ 2050  q
+ 2051  clear
+ 2052  ls
+ 2053  nano README.md
+ 2054  cat README.md 
+ 2055  git status
+ 2056  git commit -m "second commit"
+ 2057  git add .
+ 2058  git commit -m "second commit"
+ 2059  clear
+ 2060  nano README.md
+ 2061  git add .
+ 2062  git commit -m "third commit"
+ 2063  git status
+ 2064  git log
+ 2065  clear
+ 2066  git  log
+ 2067  q
+ 2068  clear
+ 2069  git checkout c57f885f44a18054185eb659a4d97f3ea5dad63f
+ 2070  cat README.md 
+ 2071  git checkout main
+ 2072  cat README.md 
+ 2073  clear
+ 2074  ls
+ 2075  git checkout master
+ 2076  cat README.md 
+ 2077  clear
+ 2078  git branch
+ 2079  clear
+ 2080  git branch
+ 2081  git branch milkshake-flavours
+ 2082  git branch
+ 2083  git switch milkshake-flavours 
+ 2084  clear
+ 2085  ls
+ 2086  git branch
+ 2087  clear
+ 2088  git branch
+ 2089  nano milkshakes.md
+ 2090  cat milkshakes.md 
+ 2091  clear
+ 2092  git status
+ 2093  git add .
+ 2094  git commit -m "added initial flavours"
+ 2095  git log
+ 2096  clear
+ 2097  git switch master
+ 2098  clear
+ 2099  ls
+ 2100  git switch milkshake-flavours 
+ 2101  clear
+ 2102  ls
+ 2103  git checkout master
+ 2104  clear
+ 2105  ls
+ 2106  ls -a
+ 2107  clear
+ 2108  ls
+ 2109  git branch
+ 2110  git branch history
+ 2111  git checkout history 
+ 2112  clear
+ 2113  ls
+ 2114  git log
+ 2115  git branch
+ 2116  clear
+ 2117  history > history.txt
